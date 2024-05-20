@@ -1,0 +1,9 @@
+1.Servo merupakan komponen berupa motor yang bergerak berputar dalam rangkaian, memanfaatkan arus listrik rangkaian untuk bergerak,
+  serta dapat diatur derajat putarannya.
+2.LED merupakan komponen berupa lampu dalam rangkaian yang umumnya digunakan sebagai indikator, memanfaatkan arus listrik 
+  rangkaian untuk nyala lampu, dikendalikan dengan mengubah status pin digital antara HIGH (nyala) dan LOW (mati).
+3.mesin ATM, alat perekam fingerprint, CCTV (kamera pengawas), Radio, Televisi
+4.Dalam matkul PST saya membuat alat pemberi pakan ayam otomatis dan monitor suhu yang dapat diakses dengan aplikasi, 
+  alat yang digunakan diantaranya adalah : arduino uno,arduino shield, Servo, sensor waktu, LCD, sensor suhu, module wifi, adaptor 9V 2A  
+
+
